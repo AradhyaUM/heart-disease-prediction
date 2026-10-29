@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Logistic Regression (baseline),0.8859,0.8857,0.9118,0.8986,0.9329
+Logistic Regression (tuned),0.8859,0.8857,0.9118,0.8986,0.9335
+Voting (soft),0.8967,0.9109,0.902,0.9064,0.9357
+Stacking,0.8913,0.902,0.902,0.902,0.9358

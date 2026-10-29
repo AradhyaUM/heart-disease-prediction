@@ -1,0 +1,5 @@
+venv/
+old_gitignore_folder/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
